@@ -1,5 +1,4 @@
 # Brain Tumor Radiomics Analysis
-# Brain Tumor Radiomics Analysis
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white" />
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" />
 </p>
 
-### Comparative Radiomic Analysis of Primary Brain Tumors and Brain Metastases Using MRI
+# Comparative Radiomic Analysis of Primary Brain Tumors and Brain Metastases Using MRI
 
 ## 📌 Project Overview
 
